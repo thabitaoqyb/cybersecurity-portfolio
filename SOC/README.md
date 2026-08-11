@@ -1,2 +1,11 @@
 SOC Environment
-Graduation Project - WIFI Attack Detector
+
+Screenshots
+
+Reports
+
+Graduation Project - WiFi Attack Detector
+
+Screenshots
+
+Reports
