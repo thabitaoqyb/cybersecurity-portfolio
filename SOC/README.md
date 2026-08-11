@@ -1,4 +1,4 @@
-" SOC Environment " (SOC)
+ SOC Environment 
 
-" Graduation Project - WiFi Attack Detector " (graduation-project)
-Reports
+Graduation Project - WiFi Attack Detector  
+
