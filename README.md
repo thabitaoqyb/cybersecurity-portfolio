@@ -1,2 +1,3 @@
-# cybersecurity-portfolio
-Cybersecurity projects, SOC analysis and graduation project.
+SOC Environment
+
+Graduation Project – WiFi Attack Detector
